@@ -1,6 +1,8 @@
 ####### WRITTEN BY : YADU MATHUR ########################
 ####### CAPTURE NETWORK TRAFFIC And get in MBPS ##############
+#MIT License
 
+#Copyright (c) 2019 Yadu Mathur
 #!/usr/bin/perl
 use strict;
 use warnings;
