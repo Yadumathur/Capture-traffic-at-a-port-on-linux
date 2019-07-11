@@ -16,7 +16,7 @@ date { match => ["logtime", "UNIX"] target => "@timestamp" }
 
 output { stdout { codec => rubydebug } elasticsearch { hosts => "localhost:9200" index => "net_new" } }
 
-Once you set up correct details , you can launch the perl code like as below sudo tcpdump -l -e -n | grep 22 | perl Testnetwork.pl >> file1.log
+Once you set up correct details , you can launch the perl code like as below sudo tcpdump -l -e -n | grep 22 | perl testnetwork.pl >> file1.log
 
 And post this start the logstash as below
 
