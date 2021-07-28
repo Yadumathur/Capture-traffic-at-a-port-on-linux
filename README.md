@@ -1,6 +1,7 @@
 # Capture-traffic-at-a-port-on-linux
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Yadumathur.Yadumathur)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadumathur&show_icons=true&theme=tokyonight)
 
 Capture the Network traffic from any port and send to ELK stack to view on dash
 
